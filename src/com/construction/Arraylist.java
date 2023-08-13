@@ -24,7 +24,7 @@ public class Arraylist {
  			System.out.println("cust.next");
  		}
  		
- 			
+ 			System.out.println("hello java");
 		
 		
 	}
